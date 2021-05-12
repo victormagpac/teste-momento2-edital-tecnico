@@ -1,12 +1,9 @@
-## Teste para área de atuação
+### CASO HIPOTÉTICO
 
-### Resolva os seguintes exercícios
+O caso hipotético da Área de Atuação V - Programação Nível Técnico consiste na execução de três desafios que avaliam algumas habilidades e competências necessárias para um programador da ESP/CE, destacando-se resolução de problemas, lógica de programação e boas práticas de codificação.
+
+### DESAFIOS
 
 1. Escreva um programa que, dado quatro valores, A, B, C e D, imprima o maior e o menor valor.
 2. Dados três valores distintos, fazer um algoritmo que, após a leitura destes dados imprima-os em ordem crescente.
-3. Faça um algoritmo que leia um no inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
-
-### Regras
-- Pode sem implementado em qualquer linguagem (C, Python, Java, Javascript, PHP e etc)
-- Cada exercício deve ser representado por um arquivo, por exemplo: exercicio1.java, exercicio2.java, exercicio3.java e etc.
-- Ao finalizar os exercícios, enviar um PULL REQUEST (PR) para o repositório atual na branch MAIN seguindo seguinte padrão no nome da branch "SEU_NUMERO_CPF" e na descrição do PULL REQUEST especificar qual seu nome, CPF e linguagem utilizada. 
+3. Faça um algoritmo que leia um número inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
